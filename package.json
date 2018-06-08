@@ -40,7 +40,6 @@
     "request": "^2.61.0",
     "sse.js": "^0.4.1",
     "text-encoding": "^0.6.4",
-    "winston": "^1.0.1",
     "ws": "^1.1.0"
   },
   "scripts": {
@@ -48,7 +47,7 @@
     "test": "gulp"
   },
   "engines": {
-    "npm" : ">=4.0.0"
+    "npm": ">=4.0.0"
   },
   "license": "Apache Software License v2"
 }
